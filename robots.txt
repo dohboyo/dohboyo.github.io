@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow:
+
+Sitemap: https://dohboyo.github.io/sitemap/sitemap.txt
